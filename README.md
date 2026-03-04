@@ -189,6 +189,8 @@ Task actions automatically sync with GitHub Issues:
 | Update Task | Update Issue |
 | Delete Task | Close Issue |
 
+Github Issues Repository: https://github.com/SGCODEX/task-manager-api-test/issues
+
 ---
 
 # Running the Project Locally
